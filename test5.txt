@@ -1,0 +1,5 @@
+The total cost is $50.50.
+12345 is a number and shouldn't be flagged.
+What about words like 2morrow or 4ever?
+Numbers in a sentence: I will arrive at 3:00 PM.
+Special symbols like #hashtag, @mention, and %percent should be ignored.

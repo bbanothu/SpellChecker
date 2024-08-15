@@ -1,0 +1,6 @@
+The capital of France is Paris.
+The Eiffel Tower is in paris, not London.
+MixedCaseWords are Tricky to check.
+ProperCaseIsImportant.
+sometimesWordsAreCamelCased and need to be checked too.
+

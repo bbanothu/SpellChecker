@@ -1,0 +1,4 @@
+Alice lives in New York City.
+Paris is a beautiful city.
+Microsoft is a large technology company.
+Be carefull with capitalization: paris is not the same as Paris.

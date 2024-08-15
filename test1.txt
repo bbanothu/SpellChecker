@@ -1,0 +1,4 @@
+The quick brownn fox jumps over the lazi dog.
+Spell checking is esential for good writing.
+Correct words include apple, banana, and grape.
+Misspelled words include applle, bannana, and graape.
